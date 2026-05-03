@@ -8,7 +8,7 @@ public class P1TotalDiginNum {
             System.out.print("Enter a no. to check no. of digits present in it : ");
             int n=sa.nextInt();
             System.out.println();
-            System.out.println("No of digits in " +n+ " is "+ (int)(Math.log10(n)));
+            System.out.println("No of digits in " +n+ " is "+ (int)(Math.log10(n)+1));
         }
     }
 }
