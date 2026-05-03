@@ -21,7 +21,6 @@ public class pat22 {
 
             System.out.println();
 
-            // fixed update logic
             if (i < ((2*n)-1)/2) {
                 l++;
                 r--;
