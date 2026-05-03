@@ -9,7 +9,7 @@ public class pat22 {
 
                 if (j >= l && j <= r) {
                     System.out.print(n-k + " ");
-                    cur = n-k+1;   // fixed here
+                    cur = n-k+1;   
                 } 
                 else if (j > r) {
                     System.out.print(cur++ + " ");
