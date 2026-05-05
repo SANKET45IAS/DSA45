@@ -1,4 +1,4 @@
-public class PPrimeNo {
+public class P7PrimeNo {
     public static boolean isPrime(int n){
         int c=0;
         for(int i=1;i<=Math.sqrt(n);i++){
